@@ -1,0 +1,4 @@
+config.txt
+data/
+# semua file .exe akan di abaikan oleh git nya
+*.exe
